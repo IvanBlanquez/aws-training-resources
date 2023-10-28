@@ -1,0 +1,1 @@
+# aws-training-resources
